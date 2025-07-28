@@ -14,7 +14,7 @@ A Streamlit web application that uses AI to summarize agricultural reports and d
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Rajshinde9909/Agro-Sum.git
 cd LLM_DOC_Summ
 ```
 
