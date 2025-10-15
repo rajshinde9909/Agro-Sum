@@ -1,6 +1,7 @@
 # AgroSum: Agricultural Report Summarizer
 
 A Streamlit web application that uses AI to summarize agricultural reports and documents.
+![Sample Image](Screenshot 2025-10-15 105746.png)
 
 ## Features
 
@@ -67,4 +68,5 @@ See `requirements.txt` for all dependencies.
 ## License
 
 This project is open source and available under the MIT License.
+
 
